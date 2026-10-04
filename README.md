@@ -1,6 +1,6 @@
 # Nishant Dubey
 
-**B.Tech student in Electronics and Communication Engineering at JIIT Noida (2023–2027)**, building software across AI applications, backend APIs, data workflows, and full-stack development.
+**Electronics and Communication Engineering undergraduate at JIIT Noida (2023–2027)** focused on software engineering, AI-enabled applications, backend APIs, and data workflows. I build with Python and JavaScript and bring a quality-first approach to development: clear requirements, reproducible checks, useful documentation, and careful follow-through from implementation to review.
 
 I recently completed a two-month remote **Quality Check Analyst internship at Saraswati IT Solutions**. I tested six modules of a live responsive web application, documented 27 UI, functional, link, and content defects, and re-tested fixes; 21 defects reached full closure during the training period, with zero rejected or duplicate reports. I used Chrome DevTools and maintained reproducible defect records in Sheets and Excel.
 
@@ -29,9 +29,6 @@ I have solved **300+ Data Structures and Algorithms problems** and completed the
 ## Education
 
 B.Tech, Electronics and Communication Engineering — Jaypee Institute of Information Technology, Noida (2023–2027)
-
-Class XII (CBSE), Swami Harsewanand Public School, Varanasi — 84.6% (2022)  
-Class X (CBSE), Swami Harsewanand Public School, Varanasi — 90.4% (2020)
 
 ## Contact
 
