@@ -1,30 +1,38 @@
 # Nishant Dubey
 
-**Electronics and Communication Engineering student at JIIT Noida** building AI-enabled applications and backend systems.
+**B.Tech student in Electronics and Communication Engineering at JIIT Noida (2023–2027)**, building software across AI applications, backend APIs, data workflows, and full-stack development.
 
-My recent projects explore practical machine learning, public-data workflows, and APIs for interactive applications. I am interested in AI/ML, backend and full-stack engineering, data analytics, and the ways software connects with ECE.
+I recently completed a two-month remote **Quality Check Analyst internship at Saraswati IT Solutions**. I tested six modules of a live responsive web application, documented 27 UI, functional, link, and content defects, and re-tested fixes; 21 defects reached full closure during the training period, with zero rejected or duplicate reports. I used Chrome DevTools and maintained reproducible defect records in Sheets and Excel.
+
+I have solved **300+ Data Structures and Algorithms problems** and completed the **Tata Group GenAI Powered Data Analytics Job Simulation** through Forage (June 2026). My resume also lists a National Level Science Olympiad achievement.
 
 ## Selected projects
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Forma — AI Interview Accelerator](https://github.com/nishantdubey-tech/interview-accelerator) | FastAPI application for evidence-based job-fit analysis and adaptive interview practice, with a browser-based voice interface and an answer-grounded preparation report. [Live demo](https://interview-accelerator-44ui.onrender.com) |
-| [Healytics](https://github.com/nishantdubey-tech/Healytics) | Academic clinical risk-prediction application using a FastAPI backend, React interface, and scikit-learn models. This is a demonstration project, not a clinical diagnostic tool. [Live demo](https://healytics-eight.vercel.app) |
-| [CreatorReach](https://github.com/nishantdubey-tech/creatorreach-micro-influencer-outreach) | Python and Streamlit workflow for discovering public YouTube creator profiles, applying transparent filters, drafting personalized outreach, and recording simulated outreach. [Live demo](https://creatorreach-nishant.streamlit.app/) |
+| [Forma — AI Interview Accelerator](https://github.com/nishantdubey-tech/interview-accelerator) | FastAPI interview-practice app with structured fit scoring, adaptive interview turns, voice support, and an answer-grounded preparation report. Its readiness score is a coaching estimate. [Live demo](https://interview-accelerator-44ui.onrender.com) |
+| [CreatorReach](https://github.com/nishantdubey-tech/creatorreach-micro-influencer-outreach) | Python and Streamlit workflow for YouTube creator discovery, transparent filters, and simulated outreach. [Live demo](https://creatorreach-nishant.streamlit.app/) |
+| [Healytics](https://github.com/nishantdubey-tech/Healytics) | Academic heart-risk prediction demo using FastAPI, React, and scikit-learn. The resume reports 95%+ accuracy on its project dataset and SHAP-based explanations; this is not clinical evidence or a diagnostic tool. Never enter real patient data. [Live demo](https://healytics-eight.vercel.app) |
+| [Magicpin VERA challenge bot](https://github.com/nishantdubey-tech/MAGicpiN2) | FastAPI challenge project with deterministic context handling and a judge simulator. |
+| [AI Chatbot](https://github.com/nishantdubey-tech/chatbot) | Next.js and Vercel AI SDK chatbot project. The public repository contains an open-source starter foundation; the resume describes the deployed multi-provider experience. [Live demo](https://chatbot-deploy-sandy.vercel.app/) |
+| StudyNotion | MERN EdTech project with course workflows, JWT authentication, role-based access, and Razorpay payments. [Live demo](https://studynotion-frontend.vercel.app/) |
 
-## Tools used in my projects
+## Skills
 
-**Languages:** Python, JavaScript  
-**Backend and data:** FastAPI, SQLAlchemy, SQLite, HTTPX, Pandas, Streamlit  
-**AI/ML:** scikit-learn, LLM APIs  
-**Frontend and delivery:** React, Vite, Docker, Git
-
-These technologies are listed because they appear in the projects linked above; the list is not a claim of equal depth across every tool.
+**Languages:** Python, C++, JavaScript  
+**Backend and APIs:** FastAPI, Node.js, Express.js, REST APIs, JWT authentication  
+**Databases:** PostgreSQL, MongoDB, SQL  
+**Web:** React, Next.js, HTML, CSS  
+**Data and ML:** Pandas, preprocessing, feature engineering, Random Forest, Gradient Boosting, SHAP  
+**Testing and tools:** Exploratory and regression testing, Chrome DevTools, defect analysis, Git/GitHub, Vercel, VS Code, Google Sheets, Microsoft Excel
 
 ## Education
 
-B.Tech, Electronics and Communication Engineering — Jaypee Institute of Information Technology, Noida
+B.Tech, Electronics and Communication Engineering — Jaypee Institute of Information Technology, Noida (2023–2027)
+
+Class XII (CBSE), Swami Harsewanand Public School, Varanasi — 84.6% (2022)  
+Class X (CBSE), Swami Harsewanand Public School, Varanasi — 90.4% (2020)
 
 ## Contact
 
-[GitHub](https://github.com/nishantdubey-tech)
+[Forage certificate](https://drive.google.com/file/d/1uO0-pRgTFbCDmnzSO0h80npbU_JWBfmL/view) · [Email](mailto:nishantdubey2021@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nishant-dubey-4a01b3322/) · [LeetCode](https://leetcode.com/u/Nishant12222/) · [Portfolio](https://portfolio-alienware2.vercel.app/)
